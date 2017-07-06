@@ -1,3 +1,8 @@
+/*
+define.h and array_lib are here:
+https://github.com/axayjha/library
+*/
+
 #include "define.h"
 #include array_lib
 #include io_library
