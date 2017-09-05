@@ -28,7 +28,7 @@ int main()
 	execute *program;
  	program = encrypt("cipher.txt", "w+");
  	printf("Loading...Wait a moment...\n");
-	ouput('ready') fprintf(program, "<Your Text>");
+	ouput("ready") fprintf(program, "<Your Text>");
 }		
 
 
