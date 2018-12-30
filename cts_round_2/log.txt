@@ -1,0 +1,4 @@
+akshayjha.com 1029 1982 dl.corrola.com 192.168.1.100 3455
+microsoft.com 2324 1020 cdn.azure.ms.com 233.102.84.1 5700
+akshayjha.com 1020 1962 dl.corrola.com 192.102.1.100 6455
+microsoft.com 5324 1020 cdn.azure.ms.com 233.102.82.11 1700
